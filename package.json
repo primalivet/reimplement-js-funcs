@@ -1,0 +1,14 @@
+{
+  "name": "rewrite-js",
+  "version": "0.0.1",
+  "description": "Simple reimplementations of common javascript functions.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tape **/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
